@@ -1,6 +1,6 @@
 # Projeto em PHP - Bootstrap, PDO & MySQL
 
-Desenvolvimento de um simples projeto (agenda de contatos) utilizando o acesso a banco de dados com o MySQL e linguagem PHP.
+Desenvolvimento de Projeto (Agenda de Contatos) utilizando o acesso a banco de dados com o MySQL e linguagem PHP.
 
 ## Escopo do Projeto:
 
