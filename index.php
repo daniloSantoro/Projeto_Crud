@@ -23,7 +23,6 @@
                 <table class="table table-striped">
                     <thead>
                         <tr>
-                            <th scope="col">Id</th>
                             <th scope="col">Nome</th>
                             <th scope="col">Endereço</th>
                             <th scope="col">Telefone</th>
