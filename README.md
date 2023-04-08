@@ -21,3 +21,35 @@ $dbUsuario = ''
 $dbSenha ''
 
 ```
+
+INTEGRANTES DO GRUPO
+
+Projeto: Lista de contatos
+
+Nome: Leandro Esteves Monteiro
+RA: 2100357
+E-mail: leandro.esteves@aluno.faculdadeimpacta.com.br
+
+Nome: Danilo Santoro Gregorute
+RA: 2100059
+Email: danilo.gregorute@aluno.faculdadeimpacta.com.br
+
+Nome: Carolina de Andrade Ruggiero
+RA: 2100434
+Email: carolina.ruggiero@aluno.faculdadeimpacta.com.br
+
+Nome Samuel Oliveira Almeida Chimicoviati
+RA: 2100347
+E-mail: samuel.chimicoviati@aluno.faculdadeimpacta.com.br
+
+Nome: Maxsuel de Brito Batista
+RA: 1905414
+Email: maxsuel.batista@aluno.faculdadeimpacta.com.br
+
+Nome: Vitor Henrique Moreira Barbieri
+RA: 2100572
+Email: vitor.barbieri@aluno.faculdadeimpacta.com.br
+
+Nome: Arthur Fermiano Manuel
+RA: 2100553
+Email: arthur.manuel@aluno.faculdadeimpacta.com.br
