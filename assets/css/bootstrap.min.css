@@ -7,8 +7,11 @@
 /*# sourceMappingURL=bootstrap.min.css.map */
 
 
+.jumbotron{
+   background-color: lightblue;
  .lista{
    h2{
    text-align: center;
     }
- }
+  }
+}
