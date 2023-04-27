@@ -10,7 +10,7 @@
 <!-- Criando o cadastro -->
 <body>
         <div class="container">
-          <div class="jumbotron">
+          <div class="jumbotron";style="background-color:#00BFFF">
             <div class="lista">
                 <h2>Projeto Agenda de contatos Impacta</h2>
             </div>
