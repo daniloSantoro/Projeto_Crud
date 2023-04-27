@@ -11,12 +11,12 @@
 <body>
         <div class="container">
           <div class="jumbotron">
-            <div class="row">
+            <div class="lista">
                 <h2>Projeto Agenda de contatos Impacta <span class="badge badge-secondary">v 1.0.0</span></h2>
             </div>
           </div>
             </br>
-            <div class="row">
+            <div class="add">
                 <p>
                     <a href="create.php" class="btn btn-success">Adicionar</a>
                 </p>
