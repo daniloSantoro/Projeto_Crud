@@ -12,7 +12,7 @@
         <div class="container">
           <div class="jumbotron">
             <div class="lista">
-                <h2>Projeto Agenda de contatos Impacta <span class="badge badge-secondary">v 1.0.0</span></h2>
+                <h2>Projeto Agenda de contatos Impacta</h2>
             </div>
           </div>
             </br>
